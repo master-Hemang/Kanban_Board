@@ -1,0 +1,30 @@
+.ticket-card {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 15px;
+  margin: 10px 0;
+  position: relative;
+}
+
+.ticket-grouping-icon {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.ticket-content {
+  margin-left: 50px;
+}
+
+.ticket-icons {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+.ticket-icons img {
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+}
